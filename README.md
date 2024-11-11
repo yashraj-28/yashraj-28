@@ -19,8 +19,9 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yashraj-gaikwad/)
-  
+- Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-gaikwad/)
+- Email me at [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ygaikwad@vols.utk.edu)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
