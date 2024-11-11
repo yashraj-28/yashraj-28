@@ -1,20 +1,16 @@
 # Hi, I'm <Yashraj Gaikwad>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Master’s student in Computer Science at the University of Tennessee, Knoxville, driven by a deep curiosity for technology and a strong passion for writing. My journey revolves around exploring the dynamic field of computer science, discovering innovative ideas, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=yashraj-28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
-
+- I'm currently pursuing my Master's in Computer Science at the University of Tennessee.
+- Aspiring Game Developer skilled in Unity and Unreal Engine, with expertise in C# and C++ to create immersive gaming experiences.
+- Experienced Web Developer proficient in both front-end and back-end technologies, dedicated to building visually appealing, user-friendly websites using HTML, CSS, JavaScript, and modern frameworks.
+- UI/UX Design Enthusiast focused on enhancing user experiences through intuitive interfaces and engaging designs, combining technical skills with a strong aesthetic sense.
+  
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
@@ -27,9 +23,6 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
