@@ -23,14 +23,14 @@
   <a href="https://www.linkedin.com/in/yashraj-gaikwad/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #0A66C2; padding: 10px; border-radius: 8px;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px; margin-right: 10px;">
-      <span style="color: white; font-weight: bold;">LinkedIn</span>
+      <span style="color: white; font-weight: bold;"></span>
     </div>
   </a>
 
   <a href="mailto:ygaikwad@vols.utk.edu" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #EA4335; padding: 10px; border-radius: 8px;">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="height: 25px; margin-right: 10px;">
-      <span style="color: white; font-weight: bold;">Gmail</span>
+      <span style="color: white; font-weight: bold;"></span>
     </div>
   </a>
 </div>
