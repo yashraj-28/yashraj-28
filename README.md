@@ -12,10 +12,9 @@ I am a passionate Master’s student in Computer Science at the University of Te
 - UI/UX Design Enthusiast focused on enhancing user experiences through intuitive interfaces and engaging designs, combining technical skills with a strong aesthetic sense.
   
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,git,vite,npm,yarn,vscode,webpack,graphql,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,git,vite,npm,yarn,vscode,webpack,graphql,firebase,csharp,cplusplus,unity,unreal" />
   </a>
 </p>
 
