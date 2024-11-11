@@ -1,4 +1,4 @@
-# Hi, I'm <Yashraj Gaikwad>! 👋
+# Hi, I'm Yashraj Gaikwad! 👋
 
 I am a passionate Master’s student in Computer Science at the University of Tennessee, Knoxville, driven by a deep curiosity for technology and a strong passion for writing. My journey revolves around exploring the dynamic field of computer science, discovering innovative ideas, and sharing my insights with the community.
 
@@ -37,8 +37,8 @@ I am a passionate Master’s student in Computer Science at the University of Te
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yashraj-28&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj-28&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 
@@ -48,7 +48,7 @@ I am a passionate Master’s student in Computer Science at the University of Te
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBoukhalfoun&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Random Dev Quote">
+<img src="https://github-profile-trophy.vercel.app/?username=yashraj-28&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Random Dev Quote">
 
 
 
