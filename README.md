@@ -14,7 +14,7 @@ I am a passionate Master’s student in Computer Science at the University of Te
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,git,vite,npm,yarn,vscode,webpack,graphql,firebase,csharp,cplusplus,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,git,npm,yarn,vscode,webpack,graphql,firebase,unity,unreal" />
   </a>
 </p>
 
