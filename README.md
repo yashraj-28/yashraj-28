@@ -8,7 +8,14 @@
 - Aspiring Game Developer skilled in Unity and Unreal Engine, with expertise in C# and C++ to create immersive gaming experiences.
 - Experienced Web Developer proficient in both front-end and back-end technologies, dedicated to building visually appealing, user-friendly websites using HTML, CSS, JavaScript, and modern frameworks.
 - UI/UX Design Enthusiast focused on enhancing user experiences through intuitive interfaces and engaging designs, combining technical skills with a strong aesthetic sense.
-  
+
+## 💻 Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,git,npm,yarn,vscode,webpack,graphql,firebase,unity,unreal" />
+  </a>
+</p>
+
 
 ## 📬 Get in Touch
 
