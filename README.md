@@ -19,7 +19,7 @@
 
 ## 📬 Get in Touch
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 30px;">
   <a href="https://www.linkedin.com/in/yashraj-gaikwad/" style="text-decoration: none;">
     <div style="display: flex; align-items: center; background-color: #0A66C2; padding: 10px; border-radius: 8px;">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px; margin-right: 10px;">
