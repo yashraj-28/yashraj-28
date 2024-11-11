@@ -1,7 +1,5 @@
 # Hi, I'm Yashraj Gaikwad! 👋
 
-I am a passionate Master’s student in Computer Science at the University of Tennessee, Knoxville, driven by a deep curiosity for technology and a strong passion for writing. My journey revolves around exploring the dynamic field of computer science, discovering innovative ideas, and sharing my insights with the community.
-
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=yashraj-28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
