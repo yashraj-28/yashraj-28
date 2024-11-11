@@ -13,12 +13,60 @@ I am a passionate Master’s student in Computer Science at the University of Te
   
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,git,vite,npm,yarn,vscode,webpack,graphql,firebase" />
+  </a>
+</p>
+
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkaderBoukhalfoun&theme=radical&hide_border=false">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
+
+
+
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+</div>
+<img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBoukhalfoun&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Random Dev Quote">
+
+
+
+
+<div align="center">
+  <h2>✍️ Random Dev Quote</h2>
+</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
 
 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/yashraj-gaikwad/)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+  
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
