@@ -1,6 +1,7 @@
 # Hi, I'm Yashraj Gaikwad! 👋
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=yashraj-28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Yashraj's Stats](https://github-readme-stats.vercel.app/api?username=yashraj-28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
