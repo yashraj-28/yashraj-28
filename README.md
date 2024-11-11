@@ -17,7 +17,7 @@ I am a passionate Master’s student in Computer Science at the University of Te
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://twitter.com/introvertedbot](https://www.linkedin.com/in/yashraj-gaikwad/))
+- Connect with me on [LinkedIn]((https://www.linkedin.com/in/yashraj-gaikwad/))
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
